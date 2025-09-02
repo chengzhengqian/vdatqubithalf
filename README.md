@@ -4,3 +4,6 @@
 
 ### Include the file
 https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L1
+
+### Prepare the data directory 
+https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L3-L4
