@@ -16,4 +16,10 @@ Results for $`\mathcal{O}(\xi)`$
 ![plot](./src/gene_plots/plot_xi_O_norb2_JU_0.0%200.05%200.25.png?raw=true)
 ![plot](./src/gene_plots/plot_xi_O_norb5_JU_0.0%200.05%200.25.png?raw=true)
 
+### Compute $`\tilde{O}(\Delta)`$
+https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L19-L24
+
+
+
+
 
