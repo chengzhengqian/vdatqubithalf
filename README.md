@@ -25,8 +25,9 @@ Results
 ### Compute $`\frac{d\tilde{O}(\Delta)}{d\Delta}`$
 https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L29-L34
 
-Results
+Results for $`J/U=0.05`$ and $`N_{orb}=2`$
 ![plot](./src/gene_plots/plot_tildeO_and_derivative_in_log_norb2_JU_0.05.png?raw=true)
+
 
 
 
