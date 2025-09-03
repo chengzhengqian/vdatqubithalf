@@ -9,3 +9,8 @@ https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cade
 https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L3-L4
 
 ### Generate $`\mathcal{O}(\xi)`$ for various $`N_{orb}`$ and  $`J/U`$
+https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L8-L13
+
+
+
+
