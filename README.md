@@ -28,11 +28,18 @@ https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cade
 Results for $`J/U=0.05`$ and $`N_{orb}=2`$
 ![plot](./src/gene_plots/plot_tildeO_and_derivative_in_log_norb2_JU_0.05.png?raw=true)
 
+### Analyze the minimization of $`\xi`$ 
+For $`J/U=0.05`$ and $`N_{orb}=2`$
+![plot](./src/gene_plots/plot_fancyL_norb2_JU_0.05.png?raw=true)
+
+
+
 ## Solve for a given density of states
 
 ### Solve for Bethe lattice
 https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L55-L61
 
+Results
 
 
 
