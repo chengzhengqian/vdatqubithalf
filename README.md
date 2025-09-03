@@ -40,6 +40,8 @@ For $`J/U=0.05`$ and $`N_{orb}=2`$
 https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L55-L61
 
 Results
+![plot](./src/gene_plots/plot_U_Delta_various_Norb_JU.png?raw=true)
+
 
 
 
