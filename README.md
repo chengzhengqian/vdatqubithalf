@@ -43,6 +43,11 @@ Results
 ![plot](./src/gene_plots/plot_U_Delta_various_Norb_JU.png?raw=true)
 
 
+### Solve for a general density of state
+https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L78-L80
+
+
+
 
 
 
