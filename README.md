@@ -47,6 +47,11 @@ Results
 https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L78-L80
 
 
+## Plot script
+See 
+./src/plot_png.gnuplot and src/plot.gnuplot
+
+
 
 
 
