@@ -22,6 +22,9 @@ https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cade
 Results
 ![plot](./src/gene_plots/plot_tildeO_Delta_norb2_JU_0.0%200.05%200.25.png?raw=true)
 
+### Compute $`\frac{\tilde{O}(\Delta)}{\Delta}`$
+https://github.com/chengzhengqian/vdatqubithalf/blob/36021b73a7c30b6ab8b3a08cadea901a9c2fbace/src/example.jl#L29-L34
+
 
 
 
